@@ -15,8 +15,8 @@ function calculateArea() {
   let height = parseInt(document.getElementById("height").value);
 
   // calculates result by multiplying the product of side a, side b, and height by 1/6
-  let area = (height * sideA * sideB) * 1/6;
-  document.getElementById("user-info").innerHTML = "The area of the triangular pyramid is " + area.toFixed(2) + " cm².";
+  let volume = (height * sideA * sideB) * 1/6;
+  document.getElementById("user-info").innerHTML = "The volume of the triangular pyramid is " + volume.toFixed(2) + " cm².";
 
   return area;
 }

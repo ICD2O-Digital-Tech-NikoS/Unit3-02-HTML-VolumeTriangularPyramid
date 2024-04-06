@@ -4,7 +4,7 @@
 */
 
 body {
-  background-color: #8cb2e3;
+  background-color: #e2d4bb;
   font-size: 10pt;
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
   color: black;
@@ -23,21 +23,21 @@ h1 {
   padding: 20px;
   margin-left: 600px;
   margin-right: 600px;
-  background-color: #e1dbdb;
+  background-color: #e3b0b0;
 }
 
 h3 {
   font: 12pt Verdana, Geneva, Arial, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 16pt;
-  color: #1e00ff;
+  color: #e81791;
 }
 
 div {
   font-weight: bold;
-  color: #7300ff;
+  color: #e58b24;
   margin: 5px;
-  background-color: #e8e8e8;
+  background-color: #aa96e4;
   margin-left: 700px;
   margin-right: 700px;
 }
